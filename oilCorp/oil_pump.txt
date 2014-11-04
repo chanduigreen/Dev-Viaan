@@ -1,0 +1,4 @@
+System Requirements:
+1. Debain linux
+2. MySQl
+3. EOD : 15_01_2014
